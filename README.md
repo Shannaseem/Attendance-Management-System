@@ -28,7 +28,6 @@ Attendance-Management-System/
 ├── attendence.py      # Main Python program
 ├── com.json           # Student data file (attendance records)
 ├── README.md          # This file
-├── .gitignore         # (Optional) Ignore system or IDE files
 ├── requirements.txt   # (Optional) List of required Python packages
 ```
 
