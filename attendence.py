@@ -118,8 +118,8 @@ def add_attendance_and_show_chart():
             recipient_email = student.get("email")
             if recipient_email:
                 email_sent = send_email(
-                    "shannaseem06@gmail.com",  # Replace with your sender email
-                    "malh fndi wubw loyd",      # Replace with your app password
+                    "user@example.com",  # Replace with your sender email
+                    "myourpassword",      # Replace with your app password
                     recipient_email,
                     f"Attendance Status for {student['name']}",
                     f"Dear {student['name']},\n\nYou have been marked as '{status}' for subject {subject} on {att_date}.\n\nRegards,\nAdmin"
