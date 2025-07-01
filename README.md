@@ -101,11 +101,10 @@ To configure:
 * Replace with your sender email and app password:
 
   ```python
-  sender_email = "shannaseem06@gmail.com"
-  sender_password = "malh fndi wubw loyd"
+  sender_email = "user@example.com"
+  sender_password = "yourpassword"
   ```
 
-✅ Use **app passwords** for Gmail (recommended) — never push real credentials to GitHub!
 
 ---
 
