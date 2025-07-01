@@ -3,7 +3,7 @@
         {
             "roll": "101",
             "name": "Ali Raza",
-            "email": "shannaseem13@gmail.com",
+            "email": "user@example.com",
             "attendance": {
                 "Com": {
                     "2025-06-13": "P",
@@ -28,7 +28,7 @@
         {
             "roll": "102",
             "name": "Fatima Khan",
-            "email": "shannaseem13@gmail.com",
+            "email": "user@example.com",
             "attendance": {
                 "Com": {
                     "2025-06-13": "P",
@@ -53,7 +53,7 @@
         {
             "roll": "103",
             "name": "shan",
-            "email": "111@gmail.com",
+            "email": "user@example.com",
             "attendance": {
                 "Com": {
                     "2025-06-30": "P"
@@ -63,7 +63,7 @@
         {
             "roll": "104",
             "name": "saad",
-            "email": "shannaseem13@gmail.com",
+            "email": "user@example.com",
             "attendance": {
                 "Com": {
                     "2025-06-30": "P"
@@ -73,7 +73,7 @@
         {
             "roll": "105",
             "name": "saeed",
-            "email": "shannaseem13@gmail.com",
+            "email": "user@example.com",
             "attendance": {
                 "Com": {
                     "2025-06-30": "P"
